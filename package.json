@@ -1,0 +1,23 @@
+{
+  "name": "svg2pdf",
+  "version": "1.0.0",
+  "description": "puppeteer svg to pdf converter",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumilingus/svg2pdf.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumilingus/svg2pdf/issues"
+  },
+  "homepage": "https://github.com/kumilingus/svg2pdf#readme"
+}
